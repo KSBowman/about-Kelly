@@ -3,16 +3,16 @@ body {
     font-family: "Arial", sans-serif;
 }
 
-h1 {
+h3 {
 
-    font-size: 8em;
+
     text-align: center;
     color: greenyellow
 
 }
 
 p {
-    font-size: 3em;
+    font-size: 1em;
     text-align: center;
     color: orangered;
 }
