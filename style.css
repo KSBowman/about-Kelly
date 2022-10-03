@@ -1,8 +1,10 @@
 body {
     background-color: darkred;
+    font-family: "Arial", sans-serif;
 }
 
 h1 {
+
     font-size: 8em;
     text-align: center;
     color: greenyellow
