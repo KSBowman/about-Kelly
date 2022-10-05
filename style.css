@@ -4,14 +4,11 @@ body {
 }
 
 h3 {
-
-
     text-align: center;
     color: greenyellow
-
 }
 
-p {
+p, li {
     font-size: 1em;
     text-align: center;
     color: orangered;
