@@ -7,10 +7,12 @@ h3 {
     text-align: center;
     color: greenyellow
 }
+p {text-align: center;}
+
+li {margin-left: 40%}
 
 p, li {
-    font-size: 1em;
-    text-align: center;
+    font-size: 2em;
     color: orangered;
 }
 
