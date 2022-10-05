@@ -3,6 +3,8 @@ body {
     font-family: "Arial", sans-serif;
 }
 
+strong{color: black}
+
 h1 {
     text-align: center;
     color: greenyellow
